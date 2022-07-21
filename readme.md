@@ -10,4 +10,10 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
+First, install docker engine. <br />
+Then use command `docker-compose up -d` for starting the system. <br />
+<br />
+Pay Attention! <br />
+On first run, you may need to first create images and only then run the whole system up.
+
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
